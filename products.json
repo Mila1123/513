@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Classic Beef Burger",
+        "category": "Burger",
+        "price": "$68.00",
+        "stock": "50 available",
+        "description": "Our signature classic beef burger with fresh ingredients and special sauce.",
+        "image": "images\/beef-burger.jpg"
+    },
+    {
+        "name": "Cheese Bacon Burger",
+        "category": "Burger",
+        "price": "$78.00",
+        "stock": "40 available",
+        "description": "Premium beef patty with crispy bacon and melted cheese.",
+        "image": "images\/bacon-burger.jpg"
+    },
+    {
+        "name": "Spicy Chicken Burger",
+        "category": "Burger",
+        "price": "$72.00",
+        "stock": "45 available",
+        "description": "Spicy chicken patty with fresh vegetables and special sauce.",
+        "image": "images\/chicken-burger.jpg"
+    },
+    {
+        "name": "Veggie Delight Burger",
+        "category": "Burger",
+        "price": "$65.00",
+        "stock": "30 available",
+        "description": "Delicious plant-based burger with fresh vegetables and vegan sauce.",
+        "image": "images\/veggie-burger.jpg"
+    },
+    {
+        "name": "Golden Fries",
+        "category": "Side Dish",
+        "price": "$22.00",
+        "stock": "80 available",
+        "description": "Crispy golden fries seasoned to perfection.",
+        "image": "images\/fries.jpg"
+    },
+    {
+        "name": "Onion Rings",
+        "category": "Side Dish",
+        "price": "$26.00",
+        "stock": "55 available",
+        "description": "Crispy battered onion rings with dipping sauce.",
+        "image": "images\/onion-rings.jpg"
+    },
+    {
+        "name": "Vanilla Milkshake",
+        "category": "Dessert",
+        "price": "$25.00",
+        "stock": "40 available",
+        "description": "Creamy vanilla milkshake topped with whipped cream.",
+        "image": "images\/vanilla-shake.jpg"
+    },
+    {
+        "name": "Chocolate Shake",
+        "category": "Dessert",
+        "price": "$28.00",
+        "stock": "60 available",
+        "description": "Rich chocolate milkshake with chocolate syrup topping.",
+        "image": "images\/shake.jpg"
+    },
+    {
+        "name": "Lemon Iced Tea",
+        "category": "Drink",
+        "price": "$20.00",
+        "stock": "75 available",
+        "description": "Refreshing lemon iced tea, perfect with any burger.",
+        "image": "images\/lemon-tea.jpg"
+    },
+    {
+        "name": "Lead Cola",
+        "category": "Drink",
+        "price": "$18.00",
+        "stock": "100 available",
+        "description": "Classic cola drink to complement your meal.",
+        "image": "images\/cola.jpg"
+    },
+    {
+        "name": "Mushroom Swiss Burger",
+        "category": "Burger",
+        "price": "$75.00",
+        "stock": "35 available",
+        "description": "Savory beef patty topped with sautéed mushrooms and melted Swiss cheese.",
+        "image": "images/mushroom-burger.jpg"
+    },
+    {
+        "name": "Grilled Chicken Sandwich",
+        "category": "Sandwich",
+        "price": "$68.00",
+        "stock": "40 available",
+        "description": "Perfectly grilled chicken breast with lettuce, tomato, and mayonnaise on a toasted bun.",
+        "image": "images/grilled-chicken-sandwich.jpg"
+    },
+    {
+        "name": "Caesar Salad",
+        "category": "Salad",
+        "price": "$45.00",
+        "stock": "50 available",
+        "description": "Crisp romaine lettuce, parmesan cheese, croutons, and creamy Caesar dressing.",
+        "image": "images/caesar-salad.jpg"
+    },
+    {
+        "name": "Buffalo Wings",
+        "category": "Appetizer",
+        "price": "$50.00",
+        "stock": "60 available",
+        "description": "Spicy buffalo wings served with blue cheese dressing and celery sticks.",
+        "image": "images/buffalo-wings.jpg"
+    },
+    {
+        "name": "Garlic Bread",
+        "category": "Side Dish",
+        "price": "$20.00",
+        "stock": "70 available",
+        "description": "Toasted bread infused with garlic butter and sprinkled with parsley.",
+        "image": "images/garlic-bread.jpg"
+    },
+    {
+        "name": "Strawberry Smoothie",
+        "category": "Drink",
+        "price": "$28.00",
+        "stock": "50 available",
+        "description": "Refreshing strawberry smoothie made with fresh strawberries and yogurt.",
+        "image": "images/strawberry-smoothie.jpg"
+    },
+    {
+        "name": "Apple Pie",
+        "category": "Dessert",
+        "price": "$32.00",
+        "stock": "30 available",
+        "description": "Warm apple pie filled with sweet apples and spices, topped with vanilla ice cream.",
+        "image": "images/apple-pie.jpg"
+    },
+    {
+        "name": "BBQ Pulled Pork Burger",
+        "category": "Burger",
+        "price": "$70.00",
+        "stock": "45 available",
+        "description": "Tender pulled pork tossed in BBQ sauce with coleslaw on top.",
+        "image": "images/bbq-pulled-pork-burger.jpg"
+    },
+    {
+        "name": "Greek Salad",
+        "category": "Salad",
+        "price": "$50.00",
+        "stock": "50 available",
+        "description": "Fresh tomatoes, cucumber, olives, red onions, and feta cheese with Greek dressing.",
+        "image": "images/greek-salad.jpg"
+    },
+    {
+        "name": "Chocolate Chip Cookie",
+        "category": "Dessert",
+        "price": "$18.00",
+        "stock": "100 available",
+        "description": "Warm chocolate chip cookie served with a scoop of vanilla ice cream.",
+        "image": "images/chocolate-chip-cookie.jpg"
+    }
+]
